@@ -1,0 +1,5 @@
+[   
+    { "sku":"X123451", "product_name":"Book", "manufacturer":"Ikea", "active": true }, 
+    { "sku":"A123453", "product_name":"Book", "manufacturer":"Ikea", "active": true }, 
+    { "sku":"B123456", "product_name":"Book", "manufacturer":"Ikea", "active": true }
+]

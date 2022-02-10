@@ -1,0 +1,11 @@
+{ 
+    "title": "Product",
+    "description": "definition of columns on Product model", 
+    "type": "object",
+    "properties": [ 
+            { "field": "sku", "headerName": "SKU", "filterable": true, "type": "string" }, 
+            { "field": "product_name", "headerName": "Product Name", "filterable": true, "type": "string" }, 
+            { "field": "manufacturer", "headerName": "Manufacturer", "filterable": true, "type": "string" }, 
+            { "field": "active", "headerName": "Active", "filterable": false, "type": "boolean" }
+        ]
+}
